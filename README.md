@@ -23,8 +23,6 @@ This API automates the creation of customized, legally-sound short-term rental d
 
 Upgrade to the Pro version for **$79.99** and unlock all premium features.
 
-**[Buy on Gumroad](https://devforgetools.gumroad.com/l/pyisdd)** — Instant download, lifetime updates
-
 **[Buy Now (Stripe)](https://buy.stripe.com/00wfZhcLlbUEf44dI0cZc05)** — Secure checkout
 
 ## Installation
@@ -36,7 +34,6 @@ Upgrade to the Pro version for **$79.99** and unlock all premium features.
 ## Support
 
 - Open an [issue](../../issues) for bug reports
-- Pro customers get priority support via the [purchase platform](https://devforgetools.gumroad.com/l/pyisdd)
 
 ## License
 
